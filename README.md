@@ -1,6 +1,6 @@
 ### Hi there, I'm Gurpreet 👋
 
-:briefcase: I'm currently working as a react-native developer.
+:briefcase: I'm currently working as a software engineer, in react-native.
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
