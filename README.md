@@ -1,6 +1,6 @@
 ### Hi there, I'm Gurpreet 👋
 
-:briefcase: I'm currently working as a software engineer. I have experience in react, react-native and currently I'm working on platform engineering projects. 
+:briefcase: I'm currently working as a software engineer. I have experience in react, react-native and currently I'm working on cloud engineering projects. 
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
